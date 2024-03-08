@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Soinsu_Bunkiai:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Soinsu_Bunkiai_jar</output-path>
+    <root id="archive" name="Soinsu_Bunkiai.jar">
+      <element id="module-output" name="Soinsu_Bunkiai" />
+    </root>
+  </artifact>
+</component>
